@@ -1,4 +1,5 @@
 ### 👋 Kadoh's GitHub Profile 👋
+[GitHub Logo](/images/logo.png)
 
 Here are some ideas to get you started:
 
