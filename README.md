@@ -1,7 +1,7 @@
 ### 👋 Kadoh's GitHub Profile 👋
-[GitHub Logo](/images/logo.png)
+Hey there, my name is Dishon Kadoh and I am an OpenERP/Odoo Technical & Functional Consultant who is Passionate about Linux and Open source softwares.
 
-Here are some ideas to get you started:
+I have profound skills and experience in: Python, HTML,XML, JavaScript,PostgreSQL, Linux System Administration and Networking
 
 - 🔭 I’m currently working on Open Source Projects Majoring on [Odoo ERP](http://odoo.com)
 - 🌱 I’m currently learning docker and kubernetes
