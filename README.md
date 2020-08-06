@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Kadoh's GitHub Profile 👋
 
 Here are some ideas to get you started:
 
@@ -6,4 +6,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning docker and kubernetes
 - 🤔 I’m looking for help for people to build great application and systems
 - 💬 Ask me about python,git,postgres,javascript,xml and css.
-- 📫 How to reach me:dishon.kadoh@gmail.com or Twitter @dishon_kadoh
+- 📫 How to reach me:dishon.kadoh@gmail.com or Twitter: @dishon_kadoh
