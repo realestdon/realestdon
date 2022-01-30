@@ -7,4 +7,4 @@ I have profound skills and experience in: Python, HTML,XML, JavaScript,PostgreSQ
 - 🌱 I’m currently learning MERN and MEAN stack.
 - 🤔 I’m looking to help people build great application and systems.
 - 💬 Ask me about python,git,postgres,javascript,xml and css.
-- 📫 How to reach me:mail@dishonkadoh.com or Twitter: [Dishon Kadoh](https://twitter.com/dishon_kadoh).
+- 📫 How to reach me:dishon.kadoh@gmail.com or ![Twitter Follow](https://img.shields.io/twitter/follow/dishon_kadoh?style=social).
